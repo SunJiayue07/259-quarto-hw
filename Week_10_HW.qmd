@@ -5,6 +5,8 @@ format: html
 editor: visual
 ---
 
+MComment: Looks good! Note, you didn't use code chunks, so none of your graphs will render in the final output. Change from formatting code to code chunks to see the graphs when you knit into PDF or HTML
+
 ## Data Wrangling Example
 
 Author
